@@ -6,7 +6,7 @@ You might need to download a few packages with git (biopython, requests, element
 
 You need your amino acid sequence of region of interest (ie: region you deleted) and either the uniprot ID of the protein or the actual protein sequence
 
-To run, simply type python <path to ResidueRangeInsideProtein.py>
+To run, simply type python (path to ResidueRangeInsideProtein.py)
 
 You will be first prompted to paste your amino acid sequence of region of interest
 Next you will be asked to put the uniprot ID (if you do not know, put 0)
